@@ -64,7 +64,6 @@ I focus on building modern, scalable, and user-friendly web solutions.
 
 ## 📫 Contact 
 - Email: <a href="mailto:dokhanhh12.2@gmail.com">dokhanhh12.2@gmail.com</a>  
-- LinkedIn: https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/kh%C3%A1nh-%C4%91%E1%BB%97-a27439385/
 
 ---
 
