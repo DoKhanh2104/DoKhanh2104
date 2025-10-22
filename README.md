@@ -32,7 +32,6 @@ I focus on building modern, scalable, and user-friendly web solutions.
 - **Tools:** Git, Docker, GitHub Actions
 
 <!-- Tech icons (emoji or shields) -->
-## 🛠️ Tech Stack
 
 ### 🎨 Frontend
 <p>
