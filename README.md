@@ -21,14 +21,13 @@ I focus on building modern, scalable, and user-friendly web solutions.
 - 🌱 Learning **Advanced React Patterns** and **System Design**  
 - 💬 Ask me about **Next.js, Java, TypeScript**
 - 📫 Reach me: <a href="mailto:dokhanhh12.2@gmail.com">dokhanhh12.2@gmail.com</a>  
-- ⚡ Fun fact: I can debug code while sleeping (not really, but I wish!)
 
 ---
 
 ## 🧰 Tech Stack
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-- **Backend:** Node.js, NestJS, Express, Spring (Java)  
-- **DB / infra:** MySQL, Docker 
+- **Backend:** Node.js, NestJS, Express, Java (Spring Boot)  
+- **DB / infra:** MySQL, MongoDB, PostgreSQL, Docker 
 - **Tools:** Git, Docker, GitHub Actions
 
 <!-- Tech icons (emoji or shields) -->
