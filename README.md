@@ -25,8 +25,8 @@ I focus on building modern, scalable, and user-friendly web solutions.
 ---
 
 ## 🧰 Tech Stack
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-- **Backend:** Node.js, NestJS, Express, Java (Spring Boot)  
+- **Frontend:** React, TypeScript, Tailwind CSS  
+- **Backend:** Node.js, Express, Java (Spring Boot)  
 - **DB / infra:** MySQL, MongoDB, PostgreSQL, Docker 
 - **Tools:** Git, Docker, GitHub Actions
 
@@ -39,14 +39,12 @@ I focus on building modern, scalable, and user-friendly web solutions.
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
 </p>
 
