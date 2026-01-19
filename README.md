@@ -19,7 +19,7 @@ I focus on building modern, scalable, and user-friendly web solutions.
 
 - 🛠 Currently working on **The Terminal Viet Nam** - A full-stack social media platform  
 - 🌱 Learning **Advanced React Patterns** and **System Design**  
-- 💬 Ask me about **Next.js, Java, TypeScript**
+- 💬 Ask me about **JavaScript, Java, TypeScript**
 - 📫 Reach me: <a href="mailto:dokhanhh12.2@gmail.com">dokhanhh12.2@gmail.com</a>  
 
 ---
